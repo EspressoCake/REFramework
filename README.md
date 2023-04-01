@@ -12,6 +12,7 @@ For newer builds, check out the [Nightly Developer Builds](https://github.com/pr
 ### VR
 * Install SteamVR (unless you're using OpenXR on a supported headset)
 * Extract the whole zip file into your corresponding game folder.
+* Test commit
 
 [VR Troubleshooting/FAQ](https://github.com/praydog/REFramework/wiki/VR-Troubleshooting)
 
